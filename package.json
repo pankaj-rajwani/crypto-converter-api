@@ -6,6 +6,17 @@
   "author": "Pankaj Rajwani",
   "license": "MIT",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pankaj-rajwani/crypto-converter-api.git"
+  },
+  "keywords": [
+    "crypto",
+    "converter",
+    "web app",
+    "cryptocurrency",
+    "fiat currency"
+  ],
   "scripts": {
     "dev": "nodemon ./src/server/index.js",
     "start": "node ./src/server/index.js",
