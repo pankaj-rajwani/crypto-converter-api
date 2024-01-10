@@ -27,6 +27,11 @@ This Node.js application serves as a backend for a Crypto Currency Converter app
 
 This project is using [Yarn](https://yarnpkg.com/en/docs/install) as package manager, if you do not have this installed on your machine, please install by looking at the [Yarn docuentation and tutorials](https://classic.yarnpkg.com/en/docs).
 
+### Cloning the respository
+
+    ```bash
+    git clone https://github.com/pankaj-rajwani/crypto-converter-api.git
+    
 ### Installing dependencies
 
     yarn add
