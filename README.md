@@ -19,6 +19,8 @@ This Node.js application serves as a backend for a Crypto Currency Converter app
 - **Cryptocurrencies:** Fetches list of trending and latest cryptocurrencies.
 - **Supported Fiat Currencies:** Provides a list of supported fiat currencies for seamless conversion.
 - **Currency Conversion:** Implements the necessary logic to convert amounts between cryptocurrencies and selected fiat currencies.
+- **Internal Caching:** Caches the data that does not change frequently, for faster response time and less source API calls
+- **Middlewares:** Applies middleware request validation checks and cache checks on the API endpoints
 - **Error Handling:** Ensures basic error handling and validation of user inputs for a reliable user experience.
 - **API Testing:** Equips unit and functional test cases for testing key functionalities.
 
