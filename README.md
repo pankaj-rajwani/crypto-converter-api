@@ -93,7 +93,7 @@ This section provides documentation for various endpoints exposed by the applica
 
 **URL-** [https://crypto-converter-api.onrender.com/](https://crypto-converter-api.onrender.com/) 
 
-### Fetch list of latest cryptocurrencies along with their supported fiat currencies
+### 1. Fetch list of latest cryptocurrencies along with their supported fiat currencies
 
 **Request**
 
@@ -141,7 +141,7 @@ This section provides documentation for various endpoints exposed by the applica
 
     }
 
-### Convert an amount from crypto currency to fiat currency
+### 2. Convert an amount from crypto currency to fiat currency
 
 **Request**
 
